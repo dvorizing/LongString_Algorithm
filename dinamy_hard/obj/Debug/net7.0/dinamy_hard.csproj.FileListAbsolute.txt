@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\bin\Debug\net7.0\dinamy_hard.exe
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\bin\Debug\net7.0\dinamy_hard.deps.json
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\bin\Debug\net7.0\dinamy_hard.runtimeconfig.json
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\bin\Debug\net7.0\dinamy_hard.dll
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\bin\Debug\net7.0\dinamy_hard.pdb
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.AssemblyInfo.cs
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.dll
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\refint\dinamy_hard.dll
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.pdb
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\dinamy_hard.genruntimeconfig.cache
+C:\Users\USER\Documents\dinamy_hard\dinamy_hard\obj\Debug\net7.0\ref\dinamy_hard.dll
