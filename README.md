@@ -8,3 +8,7 @@ S=abcba
 The algorithm will return
 the most long is:3
 the strung is:"bcb"
+The algorithm uses an array of counters of the letters "ABC"
+In dynamic planning and greedy thinking
+Screenshot of the runing window
+https://github.com/dvorizing/LongString_Algorithm/blob/main/SharedScreenshot.jpg
