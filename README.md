@@ -1,4 +1,4 @@
-A solution to a difficult problem in Dynamic This is one of the most beautiful solutions \n
+A solution to a difficult problem in Dynamic This is one of the most beautiful solutions 
 I have solved From algorithmic puzzles that I solve from a daily problem website 
 The problem:
 There is a string and a variable K that represents the maximum number of different characters that can be consecutively in the string
